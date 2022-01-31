@@ -1,0 +1,7 @@
+Jonesboro,Arkansas,72401
+Fort Wayne,Indiana,46774
+Charlotte,North Carolina,28078
+Jacksonville,Florida,32073
+Madison,Wisconsin,53532
+Lubbock,Texas,79382
+San Diego,California,91902

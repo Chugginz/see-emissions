@@ -1,0 +1,10 @@
+The Lord of the Rings: The Fellowship of the Ring;Jackson, Peter;2001;178;93000000;871530324
+Star Wars Episode I: The Phantom Menace;Lucas, George;1999;136;115000000;1027044677
+2001: A Space Odyssey;Kubrick, Stanley;1968;142;12000000;190700000
+Tron;Lisberger, Steven;1982;96;17000000;33000000
+Blade Runner;Scott, Ridley;1982;117;28000000;32868943
+D.A.R.Y.L.;Wincer, Simon;1985;99;12000000;7840873
+Short Circuit;Badham, John;1986;98;9000000;40697761
+WarGames;Badham, John;1983;114;12000000;79568000
+The Matrix;The Wachowski Brothers;1999;136;63000000;463517383
+Iron Man;Favreau, Jon;2008;126;140000000;585212101

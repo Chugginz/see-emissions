@@ -1,0 +1,10 @@
+1|RV site|true|17.50
+2|RV site, covered table|true|20.00
+3|primitive site|false|10.00
+4|RV site, covered table|true|20.00
+5|RV site|true|17.50
+6|primitive site, large|false|12.50
+7|tent site, large, riverfront|true|21.50
+8|tent site, large|true|14.50
+9|RV site, gravel pad|true|15.00
+10|cabin, riverfront|true|425.00

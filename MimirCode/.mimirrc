@@ -1,0 +1,38 @@
+{
+  "16phfbc": {
+    "christian": {
+      "statusbar": {
+        "visible": true
+      },
+      "menubar": {
+        "visible": true,
+        "showIntercom": true,
+        "theme": "default"
+      },
+      "panels": {
+        "visible": true
+      },
+      "editor": {
+        "keyboard": "textinput",
+        "fontsize": 12,
+        "showinvisibles": false,
+        "highlightactiveline": false,
+        "wraplimitrange": 0,
+        "enablesoftwrap": true,
+        "printmargincolumn": 80,
+        "showprintmargin": true,
+        "enablesofttabs": true,
+        "tabsize": 4,
+        "autocompletion": true
+      },
+      "ctags": {
+        "autocompletion": true
+      },
+      "tree": {
+        "showToolbar": true,
+        "showHidden": true,
+        "showDotGit": false
+      }
+    }
+  }
+}

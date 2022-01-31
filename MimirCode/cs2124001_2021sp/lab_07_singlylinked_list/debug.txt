@@ -1,0 +1,38 @@
+test item: 
+Great Sword                   1
+
+test game item node: 
+Amulet of Feasting            2 ( -------- )
+
+
+test 2 items: 
+Amulet of Feasting            2 ( Potion of Fire Walking )
+
+Potion of Fire Walking        3 ( -------- )
+
+inventory1 listings with 2 nodes (head: Potion of Health, tail: Stone Shield):
+Potion of Health              1 ( Stone Shield )
+Stone Shield                  1 ( -------- )
+
+
+inventory1 listings with 4 nodes (head: Potion of Health, tail: Captain's Pike):
+Potion of Health              1 ( Stone Shield )
+Stone Shield                  1 ( Cap of Health )
+Cap of Health                 2 ( Captain's Pike )
+Captain's Pike                1 ( -------- )
+
+inventory2 listings with 3 nodes (head: Cloak of Shadows, tail: Greatsword):
+Cloak of Shadows              3 ( Ruby Wand )
+Ruby Wand                     1 ( Greatsword )
+Greatsword                    0 ( -------- )
+
+removed from head of inventory1:
+Potion of Health              1
+inventory1 now:
+Stone Shield                  1 ( Cap of Health )
+Cap of Health                 2 ( Captain's Pike )
+Captain's Pike                1 ( -------- )
+
+inventory2 listings after erase:
+
+

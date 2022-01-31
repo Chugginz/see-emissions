@@ -1,0 +1,38 @@
+Luck Skill Tree:
+
+    Dealer Difficulty - The likelyhood of a dealer getting a 21
+        
+        Scale - 1 (easy) - 10 (hard)
+        10 - Better chances for dealer 21
+            - Boost chances for hand above 17 and below 21
+
+        5 - Traditional Chances
+            - Initial deck chances
+                - 1/13 for Ace
+                - 5/13 for 10
+
+        1 - Best chances for dealer to bust
+            - Boost chances for hand above 21 
+    
+    Crit Chances - The likelyhood of a crit occuring during fights
+        
+        Upgradeable 5 times
+        1 - Upgrades from 0% to 1%
+        2 - Upgrades from 1% to 2%
+        3 - Upgrades from 2% to 3%
+        4 - Upgrades from 3% to 4%
+        5 - Full unlock: 4% to 7%
+    
+    Drops Modifier - The boost on chips dropped by enemies
+
+        Upgradeable 10 times
+        1 - Upgrades from 0% to 10%
+        5 - Upgrades from 40% to 50%
+        10 - Upgrades from 90% to 150%
+
+    Luck - Overall of 1 to 5 based on number of luck upgrades
+        1 - Monsters randomly drop 10 chips
+        2 - Monsters randomly drop 50 chips
+        3 - Better chances for split hands to get close to 21
+        4 - Less likely to bust on hits
+        5 - On double down, reduced chances of busting

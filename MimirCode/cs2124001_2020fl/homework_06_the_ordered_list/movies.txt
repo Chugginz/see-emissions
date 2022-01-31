@@ -1,0 +1,10 @@
+It|2017|Andy Muschietti|R
+Kingsman: The Golden Circle|2017|Matthew Vaughn|R
+Black Panther|2018|Ryan Coogler|PG-13
+Ready Player One|2018|Steven Spielberg|PG-13
+Spider-Man: Homecoming|2017|Jon Watts|PG-13
+Baby Driver|2017|Edgar Wright|R
+American Made|2017|Doug Liman|R
+Wonder Woman|2017|Patty Jenkins|PG-13
+Arrival|2016|Denis Villeneuve|PG-13
+Rogue One|2016|Gareth Edwards|PG-13
