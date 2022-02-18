@@ -1,3 +1,0 @@
-gcc udpserver.c -o udpserver 
-gcc udpclient.c -o udpclient 
-
