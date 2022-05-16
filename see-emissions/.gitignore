@@ -1,0 +1,15 @@
+# Ignore files related to keys and ports
+.env
+
+# Ignore node_modules folder
+node_modules
+
+# Redis stuff
+dump.rdb
+
+# Database
+sports_app.db
+
+# Views because of Crossorigin
+footballScoresPage.ejs
+footballTeamScores.ejs
